@@ -1,0 +1,4 @@
+rootProject.name = 'VideoStoreREST'
+
+//Allows JPA project to be included in this Web Proj
+includeFlat 'JPAVideoStore'
